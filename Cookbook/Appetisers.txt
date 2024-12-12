@@ -1,0 +1,6 @@
+Chicken Wings,icon/Chicken_Wings.png,
+Fries,icon/Fries.png,
+Mozzarella Sticks,icon/Mozzarella_Sticks.png,
+Onion Rings,icon/Onion_Rings.png,
+Tater Tots,icon/Tater_Tots.png,
+Add recipes,images/Add_recipes.png,

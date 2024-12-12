@@ -1,0 +1,8 @@
+Bacon,icon/Bacon.png,
+Breakfast Bagel,icon/Breakfast_Bagel.png,
+Croissant,icon/Croissant.png,
+Egg Bites,icon/Egg_Bites.png,
+Egg Muffin,icon/Egg_Muffin.png,
+Fried Eggs,icon/Fried_Eggs.png,
+Toast,icon/Toast.png,
+Add recipes,images/Add_recipes.png,

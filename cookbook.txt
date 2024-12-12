@@ -1,0 +1,1 @@
+All Recipes,images/All_Recipes.png,Appetisers,icon/Appetisers.png,Breakfast,icon/Breakfast.png,Entree,icon/Entree.png,Desserts,icon/Desserts.png,Add Category,icon/Add.png

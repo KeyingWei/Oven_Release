@@ -1,0 +1,1 @@
+Manual,images/Manual.png,Chicken Wings,icon/Chicken_Wings.png,Egg Muffin,icon/Egg_Muffin.png,Fried Eggs,icon/Fried_Eggs.png,Hot Dog,icon/Hot_Dog.png,Add Recipes,images/Add_recipes.png
