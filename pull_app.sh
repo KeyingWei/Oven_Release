@@ -25,12 +25,6 @@ else
 fi
 
 # 2. 检查当前目录是否是一个 Git 仓库
-if [ ! -d "Oven_Release" ]; then
-   mkdir Oven_Release
-fi
-		
-cd Oven_Release
-	
 if [ ! -d ".git" ]; then
     echo "当前目录不是一个 Git 仓库，正在克隆仓库..."
     rm -rf *
