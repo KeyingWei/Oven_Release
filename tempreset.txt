@@ -1,1 +1,1 @@
-Breakfast,346,Lunch,260,Dinner,178,Lunch,178,Lunch,80,Cleaning,30,Cleaning,0
+早餐,346,午餐,260,晚餐,178,午餐,178,午餐,80,清洁,30,清洁,0

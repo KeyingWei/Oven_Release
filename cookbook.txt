@@ -1,1 +1,1 @@
-All Recipes,images/All_Recipes.png,Appetisers,icon/Appetisers.png,Breakfast,icon/Breakfast.png,Entree,icon/Entree.png,Desserts,icon/Desserts.png,Add Category,icon/Add.png
+All Recipes,images/All_Recipes.png,开胃菜,icon/Appetisers.png,早餐,icon/Breakfast.png,主菜,icon/Entree.png,甜点,icon/Desserts.png,Add Category,icon/Add.png
