@@ -1,0 +1,8 @@
+培根,icon/Bacon.png,
+早餐百吉饼,icon/Breakfast_Bagel.png,
+牛角包,icon/Croissant.png,
+蛋饼,icon/Egg_Bites.png,
+鸡蛋松饼,icon/Egg_Muffin.png,
+煎蛋,icon/Fried_Eggs.png,
+吐司,icon/Toast.png,
+Add recipes,images/Add_recipes.png,

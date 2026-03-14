@@ -1,0 +1,6 @@
+鸡翅,icon/Chicken_Wings.png,
+薯条,icon/Fries.png,
+马苏里拉条,icon/Mozzarella_Sticks.png,
+洋葱圈,icon/Onion_Rings.png,
+土豆饼,icon/Tater_Tots.png,
+Add recipes,images/Add_recipes.png,
